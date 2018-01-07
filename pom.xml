@@ -23,6 +23,10 @@
     <m2e.apt.activation>jdt_apt</m2e.apt.activation>
     <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
     <hibernate.version>5.2.10.Final</hibernate.version>
+
+    <javaroad-common.version>1.0-SNAPSHOT</javaroad-common.version>
+    <javaroad-data.version>1.0-SNAPSHOT</javaroad-data.version>
+    <javaroad-test.version>1.0-SNAPSHOT</javaroad-test.version>
   </properties>
 
   <dependencies>
